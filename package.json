@@ -1,0 +1,10 @@
+{
+    "description": "Translate text via google translate.", 
+    "license": "LGPL + attribution", 
+    "author": "KCode (KCode.de)", 
+    "version": "1.0", 
+    "dependencies": [
+        "jetpack-core"
+    ], 
+    "id": "jid0-oRpFeRFkBH3N0gc54YqJfdAacAA"
+}
